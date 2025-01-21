@@ -1,0 +1,3 @@
+Decimal: 3, Hexadecimal: 3, Binary: 11
+Decimal: 488, Hexadecimal: 1E8, Binary: 111101000
+Decimal: 400, Hexadecimal: 190, Binary: 110010000
